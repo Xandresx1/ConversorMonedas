@@ -5,9 +5,9 @@ Este proyecto es una aplicación en **Java** que permite convertir montos entre 
 ## 🚀 Características
 
 - **Conversión entre diferentes monedas**:
-  - 💵 **Dólar (USD)** ↔ **Peso Argentino (ARS)**
-  - 💵 **Dólar (USD)** ↔ **Real Brasileño (BRL)**
-  - 💵 **Dólar (USD)** ↔ **Peso Colombiano (COP)**
+  - 🇺🇸 **Dólar (USD)** ↔ **Peso Argentino (ARS)** 🇦🇷
+  - 🇺🇸 **Dólar (USD)** ↔ **Real Brasileño (BRL)** 🇧🇷
+  - 🇺🇸 **Dólar (USD)** ↔ **Peso Colombiano (COP)** 🇨🇴
 - 🔄 Conexión con una **API de tipo de cambio** para obtener datos actualizados.
 - 🖥️ Formateo de resultados en un formato legible para el usuario.
 
