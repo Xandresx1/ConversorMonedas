@@ -58,7 +58,7 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
 
 ## API Utilizada
 Este proyecto utiliza la API de [ExchangeRate-API](https://www.exchangerate-api.com/) para obtener los datos de conversión. La URL base utilizada es:
-  ```Modelo de como funciona el endpoint
-  https://v6.exchangerate-api.com/v6/<API_KEY>/pair/<moneda_origen>/<moneda_destino>/<monto>
+
+  ```https://v6.exchangerate-api.com/v6/<API_KEY>/pair/<moneda_origen>/<moneda_destino>/<monto>```
 
 Nota: La clave de la API `(API_KEY)` está incluida en el código como un ejemplo. Para producción, se recomienda ocultar esta clave y utilizar variables de entorno.
