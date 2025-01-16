@@ -56,6 +56,9 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
 4. Haz push a la rama: `git push origin nombre-de-tu-rama`.
 5. Crea un pull request detallando los cambios realizados.
 
-## Licencia
+## API Utilizada
+Este proyecto utiliza la API de [ExchangeRate-API](https://www.exchangerate-api.com/) para obtener los datos de conversión. La URL base utilizada es:
+  ```Modelo de como funciona el endpoint
+  https://v6.exchangerate-api.com/v6/<API_KEY>/pair/<moneda_origen>/<moneda_destino>/<monto>
 
-Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+Nota: La clave de la API `(API_KEY)` está incluida en el código como un ejemplo. Para producción, se recomienda ocultar esta clave y utilizar variables de entorno.
