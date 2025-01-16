@@ -72,7 +72,7 @@ public class Main {
                 fin = "USD";
                 break;
             default:
-                System.out.println("Opción no válida.");
+                System.out.println("Opcion no válida.");
                 return;
         }
 
@@ -84,7 +84,7 @@ public class Main {
         }
         catch (IOException | InterruptedException e) {
             e.printStackTrace();
-            System.out.println("Ocurrió un error al conectar con la API.");
+            System.out.println("Ocurrio un error al conectar con la API.");
         }
     }
 }
