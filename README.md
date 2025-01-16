@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eb9d3931-ac46-421e-8329-68635812b56b)# 💸 **Conversor de Moneda** 💸
+# 💸 **Conversor de Moneda** 💸
 
 Este proyecto es una aplicación en **Java** que permite convertir montos entre diferentes monedas utilizando una **API de tipo de cambio**. La aplicación interactúa con el usuario a través de la consola y realiza solicitudes HTTP para obtener los datos de conversión.
 
